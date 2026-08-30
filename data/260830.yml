@@ -1,0 +1,58 @@
+about:
+  description: A simple CLI and TUI driven application that offers patch reporting for remote unix systems, written in Python
+  license: MIT
+  homepage: https://exosphere.readthedocs.io
+  head: f4edf99
+  archived: false
+  latestVersion: v3.0.0
+  collectedAt: 2026-08-30T05:43:12Z
+timeline:
+  created: 2025-04-12
+  lastCommit: 2026-08-29
+  lastRelease: 2026-07-02
+popularity:
+  star: 139
+  watcher: 2
+  fork: 2
+  release: 27
+  contributor: 1
+  pullRequest: 39
+  issue: 59
+language:
+  Python: 1010997
+  Jinja: 13716
+  Tape: 2060
+totalLine: 1026773
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 0
+    mergedPR: 9
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 25
+  last90d:
+    since: 2026-06-01
+    release: 1
+    mergedPR: 67
+    openPR: 0
+    closedIssue: 2
+    openIssue: 2
+    commit: 127
+  last180d:
+    since: 2026-03-03
+    release: 5
+    mergedPR: 121
+    openPR: 0
+    closedIssue: 14
+    openIssue: 2
+    commit: 215
+  last360d:
+    since: 2025-09-04
+    release: 19
+    mergedPR: 230
+    openPR: 0
+    closedIssue: 24
+    openIssue: 4
+    commit: 490
