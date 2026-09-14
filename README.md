@@ -33,7 +33,7 @@ Total: **29,514** lines of code across **132** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.0.1` (2026-08-30)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-14
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **29,514** lines of code across **132** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 272 · **Open PRs**: 0 · **Closed issues**: 56 · **Open issues**: 4 · **Commits**: 1074
+- **Releases**: 28 · **Merged PRs**: 274 · **Open PRs**: 0 · **Closed issues**: 56 · **Open issues**: 4 · **Commits**: 1076
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 11 | 0 | 1 | 0 | 24 |
-| last60d | 2026-07-15 | 1 | 22 | 0 | 1 | 1 | 37 |
-| 90d | 2026-06-15 | 2 | 60 | 0 | 2 | 2 | 84 |
-| last180d | 2026-03-17 | 5 | 116 | 0 | 15 | 2 | 213 |
-| 360d | 2025-09-18 | 15 | 223 | 0 | 25 | 4 | 456 |
-| last720d | 2024-09-23 | 28 | 272 | 0 | 56 | 4 | 1074 |
+| 30d | 2026-08-15 | 1 | 13 | 0 | 1 | 0 | 26 |
+| last60d | 2026-07-16 | 1 | 24 | 0 | 1 | 1 | 39 |
+| 90d | 2026-06-16 | 2 | 61 | 0 | 2 | 2 | 86 |
+| last180d | 2026-03-18 | 5 | 118 | 0 | 15 | 2 | 215 |
+| 360d | 2025-09-19 | 15 | 224 | 0 | 25 | 4 | 458 |
+| last720d | 2024-09-24 | 28 | 274 | 0 | 56 | 4 | 1076 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for exosphere lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:59:11Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:03:27Z._
