@@ -4,7 +4,7 @@
 
 A simple CLI and TUI driven application that offers patch reporting for remote unix systems, written in Python
 
-[![x-cmd/install — exosphere Code Quality Monitoring Repo Card](https://repo.x-cmd.io/exosphere.svg?lang=zh)](https://x-cmd.com/install/exosphere)
+[![x-cmd/install — exosphere Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/exosphere.svg?lang=zh)](https://x-cmd.com/install/exosphere)
 
 ## 安装
 
@@ -47,12 +47,12 @@ x install exosphere
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 15 | 0 | 1 | 1 | 0 |
-| last60d | 2026-07-24 | 1 | 23 | 0 | 1 | 2 | 0 |
-| 90d | 2026-06-24 | 2 | 50 | 0 | 1 | 3 | 0 |
-| last180d | 2026-03-26 | 5 | 119 | 0 | 13 | 3 | 0 |
-| 360d | 2025-09-27 | 15 | 223 | 0 | 23 | 5 | 0 |
-| last720d | 2024-10-02 | 28 | 278 | 0 | 56 | 5 | 1080 |
+| 30d | 2026-08-24 | 1 | 13 | 0 | 1 | 1 | 16 |
+| last60d | 2026-07-25 | 1 | 23 | 0 | 1 | 2 | 39 |
+| 90d | 2026-06-25 | 2 | 50 | 0 | 1 | 3 | 65 |
+| last180d | 2026-03-27 | 5 | 119 | 0 | 12 | 3 | 216 |
+| 360d | 2025-09-28 | 15 | 223 | 0 | 23 | 5 | 435 |
+| last720d | 2024-10-03 | 28 | 278 | 0 | 56 | 5 | 1080 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ exosphere 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:12:32Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:58:50Z._
