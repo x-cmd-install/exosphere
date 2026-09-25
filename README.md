@@ -47,12 +47,12 @@ Total: **29,514** lines of code across **132** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 1 | 13 | 0 | 1 | 1 | 0 |
-| last60d | 2026-07-26 | 1 | 23 | 0 | 1 | 2 | 0 |
-| 90d | 2026-06-26 | 2 | 50 | 0 | 1 | 3 | 0 |
-| last180d | 2026-03-28 | 5 | 118 | 0 | 10 | 3 | 0 |
-| 360d | 2025-09-29 | 15 | 219 | 0 | 23 | 5 | 0 |
-| last720d | 2024-10-04 | 28 | 278 | 0 | 56 | 5 | 1080 |
+| 30d | 2026-08-26 | 1 | 13 | 0 | 1 | 1 | 16 |
+| last60d | 2026-07-27 | 1 | 19 | 0 | 1 | 2 | 39 |
+| 90d | 2026-06-27 | 2 | 47 | 0 | 1 | 3 | 65 |
+| last180d | 2026-03-29 | 5 | 118 | 0 | 10 | 3 | 216 |
+| 360d | 2025-09-30 | 15 | 219 | 0 | 23 | 5 | 435 |
+| last720d | 2024-10-05 | 28 | 278 | 0 | 56 | 5 | 1080 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for exosphere lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:53:27Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:07:20Z._
