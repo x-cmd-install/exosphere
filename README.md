@@ -41,18 +41,18 @@ Total: **29,639** lines of code across **132** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 289 · **Open PRs**: 0 · **Closed issues**: 57 · **Open issues**: 5 · **Commits**: 1100
+- **Releases**: 30 · **Merged PRs**: 289 · **Open PRs**: 4 · **Closed issues**: 57 · **Open issues**: 5 · **Commits**: 1100
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 2 | 15 | 0 | 1 | 0 | 20 |
-| last60d | 2026-08-19 | 3 | 26 | 0 | 2 | 1 | 44 |
-| 90d | 2026-07-20 | 3 | 34 | 0 | 2 | 2 | 63 |
-| last180d | 2026-04-21 | 5 | 108 | 0 | 7 | 3 | 210 |
-| 360d | 2025-10-23 | 13 | 213 | 0 | 20 | 5 | 386 |
-| last720d | 2024-10-28 | 30 | 289 | 0 | 57 | 5 | 1100 |
+| 30d | 2026-09-19 | 2 | 15 | 4 | 1 | 0 | 0 |
+| last60d | 2026-08-20 | 3 | 26 | 4 | 2 | 1 | 0 |
+| 90d | 2026-07-21 | 3 | 34 | 4 | 2 | 2 | 0 |
+| last180d | 2026-04-22 | 5 | 108 | 4 | 7 | 3 | 0 |
+| 360d | 2025-10-24 | 13 | 212 | 4 | 20 | 5 | 0 |
+| last720d | 2024-10-29 | 30 | 289 | 4 | 57 | 5 | 1100 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for exosphere lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:38:19Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:44:25Z._
