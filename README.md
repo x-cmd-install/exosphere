@@ -37,7 +37,7 @@ Total: **29,639** lines of code across **132** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 144 · **Forks**: 2 · **Open issues**: 62 · **Contributors**: 1
+- **Stars**: 145 · **Forks**: 2 · **Open issues**: 62 · **Contributors**: 1
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **29,639** lines of code across **132** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 2 | 19 | 0 | 1 | 0 | 24 |
-| last60d | 2026-08-21 | 3 | 30 | 0 | 2 | 1 | 48 |
-| 90d | 2026-07-22 | 3 | 38 | 0 | 2 | 2 | 67 |
-| last180d | 2026-04-23 | 5 | 112 | 0 | 7 | 3 | 214 |
-| 360d | 2025-10-25 | 13 | 214 | 0 | 20 | 5 | 390 |
-| last720d | 2024-10-30 | 30 | 293 | 0 | 57 | 5 | 1104 |
+| 30d | 2026-09-21 | 2 | 15 | 0 | 1 | 0 | 24 |
+| last60d | 2026-08-22 | 3 | 30 | 0 | 2 | 1 | 48 |
+| 90d | 2026-07-23 | 3 | 38 | 0 | 2 | 2 | 67 |
+| last180d | 2026-04-24 | 5 | 112 | 0 | 7 | 3 | 214 |
+| 360d | 2025-10-26 | 13 | 213 | 0 | 20 | 5 | 390 |
+| last720d | 2024-10-31 | 30 | 293 | 0 | 57 | 5 | 1104 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for exosphere lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:59:15Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:49:23Z._
