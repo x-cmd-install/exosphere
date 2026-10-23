@@ -1,0 +1,70 @@
+- repo: debian_14
+  subrepo: forky/main
+  srcname: exosphere
+  binnames:
+    - exosphere
+    - exosphere-doc
+  visiblename: exosphere
+  version: 3.0.2
+  origversion: 3.0.2+dfsg-1
+  status: unique
+  maintainers:
+    - jesse@sney.ca
+  categories:
+    - utils
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: exosphere
+  binnames:
+    - exosphere
+    - exosphere-doc
+  visiblename: exosphere
+  version: 3.0.2
+  origversion: 3.0.2+dfsg-1
+  status: unique
+  maintainers:
+    - jesse@sney.ca
+  categories:
+    - utils
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: exosphere
+  binnames:
+    - exosphere
+    - exosphere-doc
+  visiblename: exosphere
+  version: 3.0.2
+  origversion: 3.0.2+dfsg-1
+  status: unique
+  maintainers:
+    - jesse@sney.ca
+  categories:
+    - utils
+- repo: kali_rolling
+  subrepo: main
+  srcname: exosphere
+  binnames:
+    - exosphere
+    - exosphere-doc
+  visiblename: exosphere
+  version: 3.0.2
+  origversion: 3.0.2+dfsg-1
+  status: unique
+  maintainers:
+    - jesse@sney.ca
+  categories:
+    - utils
+- repo: raspbian_testing
+  subrepo: main
+  srcname: exosphere
+  binnames:
+    - exosphere
+    - exosphere-doc
+  visiblename: exosphere
+  version: 3.0.2
+  origversion: 3.0.2+dfsg-1
+  status: unique
+  maintainers:
+    - jesse@sney.ca
+  categories:
+    - utils
