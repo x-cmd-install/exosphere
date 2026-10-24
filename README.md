@@ -14,11 +14,11 @@ x install exosphere
 
 ## Code insight
 
-Total: **29,639** lines of code across **132** files in the top 5 languages.
+Total: **29,647** lines of code across **132** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 23,757 | 1,550 | 5,316 | 93 |
+| Python | 23,765 | 1,550 | 5,316 | 93 |
 | ReStructuredText | 3,341 | 0 | 1,748 | 24 |
 | Html | 962 | 0 | 50 | 5 |
 | Json | 715 | 0 | 0 | 7 |
@@ -32,8 +32,8 @@ Total: **29,639** lines of code across **132** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v3.0.3` (2026-10-14)
-- **Last commit**: 2026-10-19
+- **Latest**: `v3.0.4` (2026-10-24)
+- **Last commit**: 2026-10-24
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **29,639** lines of code across **132** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 293 · **Open PRs**: 0 · **Closed issues**: 57 · **Open issues**: 5 · **Commits**: 1104
+- **Releases**: 31 · **Merged PRs**: 297 · **Open PRs**: 0 · **Closed issues**: 57 · **Open issues**: 5 · **Commits**: 1110
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 2 | 15 | 0 | 1 | 0 | 24 |
-| last60d | 2026-08-24 | 3 | 28 | 0 | 2 | 1 | 48 |
-| 90d | 2026-07-25 | 3 | 38 | 0 | 2 | 2 | 67 |
-| last180d | 2026-04-26 | 5 | 112 | 0 | 7 | 3 | 214 |
-| 360d | 2025-10-28 | 13 | 210 | 0 | 19 | 5 | 390 |
-| last720d | 2024-11-02 | 30 | 293 | 0 | 57 | 5 | 1104 |
+| 30d | 2026-09-24 | 3 | 19 | 0 | 1 | 0 | 30 |
+| last60d | 2026-08-25 | 4 | 32 | 0 | 2 | 1 | 54 |
+| 90d | 2026-07-26 | 4 | 42 | 0 | 2 | 2 | 73 |
+| last180d | 2026-04-27 | 6 | 112 | 0 | 7 | 3 | 220 |
+| 360d | 2025-10-29 | 14 | 212 | 0 | 19 | 5 | 396 |
+| last720d | 2024-11-03 | 31 | 297 | 0 | 57 | 5 | 1110 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for exosphere lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:52:50Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:40:44Z._
