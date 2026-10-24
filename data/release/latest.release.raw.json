@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/mrdaemon/exosphere/releases/413197755",
-  "assets_url": "https://api.github.com/repos/mrdaemon/exosphere/releases/413197755/assets",
-  "upload_url": "https://uploads.github.com/repos/mrdaemon/exosphere/releases/413197755/assets{?name,label}",
-  "html_url": "https://github.com/mrdaemon/exosphere/releases/tag/v3.0.3",
-  "id": 413197755,
+  "url": "https://api.github.com/repos/mrdaemon/exosphere/releases/422475069",
+  "assets_url": "https://api.github.com/repos/mrdaemon/exosphere/releases/422475069/assets",
+  "upload_url": "https://uploads.github.com/repos/mrdaemon/exosphere/releases/422475069/assets{?name,label}",
+  "html_url": "https://github.com/mrdaemon/exosphere/releases/tag/v3.0.4",
+  "id": 422475069,
   "author": {
     "login": "mrdaemon",
     "id": 461308,
@@ -25,22 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOOYeHI84YoOW7",
-  "tag_name": "v3.0.3",
+  "node_id": "RE_kwDOOYeHI84ZLnU9",
+  "tag_name": "v3.0.4",
   "target_commitish": "main",
-  "name": "3.0.3 - Bugfix Release and Python 3.15 Support",
+  "name": "3.0.4 - FreeBSD Bugfix Release",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-10-14T21:07:21Z",
-  "updated_at": "2026-10-14T21:27:05Z",
-  "published_at": "2026-10-14T21:25:30Z",
+  "created_at": "2026-10-24T02:43:55Z",
+  "updated_at": "2026-10-24T02:47:30Z",
+  "published_at": "2026-10-24T02:47:30Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/mrdaemon/exosphere/tarball/v3.0.3",
-  "zipball_url": "https://api.github.com/repos/mrdaemon/exosphere/zipball/v3.0.3",
-  "body": "_Exosphere: A simple CLI and TUI driven application that offers patch reporting for remote unix systems_\r\n\r\nContains minor, optional changes surrounding dependencies compatibility, support for Python 3.15 and an edge case fix for the `--version` flags from the CLI.\r\n\r\n## Features\r\n\r\n- Python 3.15 support\r\n\r\n## Bug Fixes\r\n\r\n- Explicitly handle CLI exit codes to prevent future breakage due to library changes\r\n- `--version/-V` now only skips initialization when used as a root argument. Using it after a subcommand now correctly gets a standard error and help output.\r\n\r\n## Dependency Changes\r\n\r\n- Floor raised for Pydantic on Python 3.15 (pydantic 0.14, pydantic-core 0.50). Unchanged on 3.13 and 3.14.\r\n- Cyclopts ceiling set to < 6.0.0\r\n\r\n## What's Changed\r\n\r\n* Wrap CLI entry point for exit code handling by @mrdaemon https://github.com/mrdaemon/exosphere/pull/395\r\n* CLI: Fix fast-path for version flags by @mrdaemon in https://github.com/mrdaemon/exosphere/pull/396\r\n* Python 3.15 Support by @mrdaemon in https://github.com/mrdaemon/exosphere/pull/397\r\n\r\n**Full Changelog**: https://github.com/mrdaemon/exosphere/compare/v3.0.2...v3.0.3",
-  "discussion_url": "https://github.com/mrdaemon/exosphere/discussions/401",
+  "tarball_url": "https://api.github.com/repos/mrdaemon/exosphere/tarball/v3.0.4",
+  "zipball_url": "https://api.github.com/repos/mrdaemon/exosphere/zipball/v3.0.4",
+  "body": "_Exosphere: A simple CLI and TUI driven application that offers patch reporting for remote unix systems_\r\n\r\n## Bug Fixes\r\n\r\nCorrects a compatibility issue with the output of `pkg` >=2.8, which would prevent security updates from being correctly read at all, and silently dropped from reports.\r\n\r\n## What's Changed\r\n\r\n* FreeBSD: Fix parsing for pkg 2.8 by @mrdaemon in https://github.com/mrdaemon/exosphere/pull/406\r\n\r\n**Full Changelog**: https://github.com/mrdaemon/exosphere/compare/v3.0.3...v3.0.4",
   "mentions_count": 1
 }
