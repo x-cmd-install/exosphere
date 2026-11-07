@@ -68,3 +68,17 @@
     - jesse@sney.ca
   categories:
     - utils
+- repo: ubuntu_27_04_proposed
+  subrepo: tenacious-proposed/universe
+  srcname: exosphere
+  binnames:
+    - exosphere
+    - exosphere-doc
+  visiblename: exosphere
+  version: 3.0.2
+  origversion: 3.0.2+dfsg-1
+  status: unique
+  maintainers:
+    - jesse@sney.ca
+  categories:
+    - universe/utils
